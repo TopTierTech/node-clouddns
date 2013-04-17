@@ -1,7 +1,7 @@
 {
   "name": "clouddns",
   "description": "A client implementation for Rackspace Cloud DNS in node.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Andrew Cope <davidandrewcope@gmail.com>",
   "contributors": [
     "Ryan Sullivan <ryan@toptiertech.com>",
