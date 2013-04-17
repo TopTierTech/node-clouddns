@@ -3,9 +3,13 @@
   "description": "A client implementation for Rackspace Cloud DNS in node.js",
   "version": "0.0.1",
   "author": "Andrew Cope <davidandrewcope@gmail.com>",
+  "contributors": [
+    "Ryan Sullivan <ryan@toptiertech.com>",
+    "Andrew Welfel <andrew@toptiertech.com>"
+  ],  
   "repository": {
     "type": "git",
-    "url" : "http://github.com/davidandrewcope/node-clouddns.git"
+    "url" : "git://github.com/TopTierTech/node-clouddns.git"
   },
   "keywords": ["cloud computing", "api", "rackspace cloud", "cloud dns", "dns"],
   "dependencies": {
@@ -23,7 +27,7 @@
     "node": ">= 0.6.6"
   },
   "bugs": {
-    "email": "davidandrewcope@gmail.com",
-    "url": "https://github.com/davidandrewcope/node-clouddns/issues"
+    "email": "ryan@toptiertech.com",
+    "url": "https://github.com/TopTierTech/node-clouddns/issues"
   }
 }
